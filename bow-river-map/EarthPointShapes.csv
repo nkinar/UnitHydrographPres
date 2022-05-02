@@ -1,0 +1,3 @@
+Folder,Name,Shape Type,"Number
+of Points",Area (Sq Kilometers),Perimeter/Length (Kilometers),Centroid/Mid-Point (Degrees),Bounding Box Maximum (Degrees),Bounding Box Minimum (Degrees)
+large_watershed,,Polygon,"10,332","3,564",400,"51.0877639°, -114.4786997°","51.4931982°, -113.8976078°","50.6167988°, -115.1003452°"

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAGA_METADATA>
+  <HISTORY saga-version="2.3.2">
+    <MODULE library="shapes_points" id="16" name="Thiessen Polygons">
+      <OPTION type="double" id="FRAME" name="Frame Size">10.000000</OPTION>
+      <INPUT type="shapes" id="POINTS" name="Points">
+        <FILE>C:/Users/Nicholas/AppData/Local/Temp/processing_xlYOiL/d0e6110929d441de8fcfd886798d7c5f/POINTS.shp</FILE>
+      </INPUT>
+      <OUTPUT type="shapes" id="POLYGONS" name="Polygons">POINTS [Thiessen Polygons]</OUTPUT>
+    </MODULE>
+  </HISTORY>
+  <SOURCE>
+    <FILE></FILE>
+    <DATABASE>
+      <FIELDS>
+        <FIELD TYPE="STRING">field_1</FIELD>
+        <FIELD TYPE="DOUBLE">field_2</FIELD>
+        <FIELD TYPE="DOUBLE">field_3</FIELD>
+      </FIELDS>
+    </DATABASE>
+    <PROJECTION>
+      <OGC_WKT>GEOGCS["GCS_WGS_1984",DATUM["D_WGS_1984",SPHEROID["WGS_1984",6378137.0,298.257223563]],PRIMEM["Greenwich",0.0],UNIT["Degree",0.0174532925199433]]</OGC_WKT>
+      <PROJ4>+proj=longlat +a=6378137.000000 +b=6356752.314245 +no_defs</PROJ4>
+      <EPSG>-1</EPSG>
+    </PROJECTION>
+  </SOURCE>
+  <DESCRIPTION></DESCRIPTION>
+</SAGA_METADATA>
