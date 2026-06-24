@@ -44,4 +44,4 @@ Please let me know if you require any assistance with running the code.
 
 ## Author
 
-* **Nicholas J. Kinar <n.kinar@usask.ca>**
+* **Nicholas J. Kinar**
